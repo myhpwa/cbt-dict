@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/cbt-dict/static/css/main.08eb8e7d.css",
+    "main.js": "/cbt-dict/static/js/main.b94cd271.js",
+    "static/js/443.54629c30.chunk.js": "/cbt-dict/static/js/443.54629c30.chunk.js",
+    "static/js/738.4919dc2e.chunk.js": "/cbt-dict/static/js/738.4919dc2e.chunk.js",
+    "static/js/372.6914b190.chunk.js": "/cbt-dict/static/js/372.6914b190.chunk.js",
+    "static/js/856.88a0fc6d.chunk.js": "/cbt-dict/static/js/856.88a0fc6d.chunk.js",
+    "static/js/22.b6dd3848.chunk.js": "/cbt-dict/static/js/22.b6dd3848.chunk.js",
+    "static/js/851.8b90020a.chunk.js": "/cbt-dict/static/js/851.8b90020a.chunk.js",
+    "static/js/215.c7b95c63.chunk.js": "/cbt-dict/static/js/215.c7b95c63.chunk.js",
+    "static/js/841.0244de32.chunk.js": "/cbt-dict/static/js/841.0244de32.chunk.js",
+    "static/js/186.f427af42.chunk.js": "/cbt-dict/static/js/186.f427af42.chunk.js",
+    "service-worker.js": "/cbt-dict/service-worker.js",
+    "index.html": "/cbt-dict/index.html",
+    "main.08eb8e7d.css.map": "/cbt-dict/static/css/main.08eb8e7d.css.map",
+    "main.b94cd271.js.map": "/cbt-dict/static/js/main.b94cd271.js.map",
+    "443.54629c30.chunk.js.map": "/cbt-dict/static/js/443.54629c30.chunk.js.map",
+    "738.4919dc2e.chunk.js.map": "/cbt-dict/static/js/738.4919dc2e.chunk.js.map",
+    "372.6914b190.chunk.js.map": "/cbt-dict/static/js/372.6914b190.chunk.js.map",
+    "856.88a0fc6d.chunk.js.map": "/cbt-dict/static/js/856.88a0fc6d.chunk.js.map",
+    "22.b6dd3848.chunk.js.map": "/cbt-dict/static/js/22.b6dd3848.chunk.js.map",
+    "851.8b90020a.chunk.js.map": "/cbt-dict/static/js/851.8b90020a.chunk.js.map",
+    "215.c7b95c63.chunk.js.map": "/cbt-dict/static/js/215.c7b95c63.chunk.js.map",
+    "841.0244de32.chunk.js.map": "/cbt-dict/static/js/841.0244de32.chunk.js.map",
+    "186.f427af42.chunk.js.map": "/cbt-dict/static/js/186.f427af42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08eb8e7d.css",
+    "static/js/main.b94cd271.js"
+  ]
+}
