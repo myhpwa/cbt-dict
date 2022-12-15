@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cbt-dict/static/css/main.08eb8e7d.css",
-    "main.js": "/cbt-dict/static/js/main.aa1e17ed.js",
+    "main.js": "/cbt-dict/static/js/main.61389c77.js",
     "static/js/443.54629c30.chunk.js": "/cbt-dict/static/js/443.54629c30.chunk.js",
     "static/js/738.4919dc2e.chunk.js": "/cbt-dict/static/js/738.4919dc2e.chunk.js",
     "static/js/372.6914b190.chunk.js": "/cbt-dict/static/js/372.6914b190.chunk.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/cbt-dict/service-worker.js",
     "index.html": "/cbt-dict/index.html",
     "main.08eb8e7d.css.map": "/cbt-dict/static/css/main.08eb8e7d.css.map",
-    "main.aa1e17ed.js.map": "/cbt-dict/static/js/main.aa1e17ed.js.map",
+    "main.61389c77.js.map": "/cbt-dict/static/js/main.61389c77.js.map",
     "443.54629c30.chunk.js.map": "/cbt-dict/static/js/443.54629c30.chunk.js.map",
     "738.4919dc2e.chunk.js.map": "/cbt-dict/static/js/738.4919dc2e.chunk.js.map",
     "372.6914b190.chunk.js.map": "/cbt-dict/static/js/372.6914b190.chunk.js.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.08eb8e7d.css",
-    "static/js/main.aa1e17ed.js"
+    "static/js/main.61389c77.js"
   ]
 }
